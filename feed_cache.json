@@ -1,0 +1,63 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/": {
+        "fingerprint": "ce4c32792714c4af749bfcad0bc90380",
+        "raw_data": {
+            "h1_title": "Диски Toyota Crown 1999",
+            "brand": "Toyota",
+            "price_raw": "9999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски 131821, контрактные, оригинал. Toyota Crown 1999 15х6J ET53 5х114.30",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Toyota",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Toyota Crown 1999",
+                    "description": "Оригинальные контрактные диски Toyota Crown 1999. Размер 15х6J ET53, разболтовка 5х114.30. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски Toyota Crown 1999",
+                    "description": "Контрактные диски Toyota Crown 1999 года. Параметры: 15х6J ET53 5х114.30. Оригинальное состояние."
+                },
+                {
+                    "title": "Диски Toyota Crown 1999",
+                    "description": "Диски 131821 для Toyota Crown 1999. Размер 15х6J ET53, 5 отверстий. Оригинал, контрактный."
+                },
+                {
+                    "title": "Диски Toyota Crown 1999",
+                    "description": "Оригинальные диски Toyota Crown 1999. 15 дюймов, ширина 6J, вылет 53, сверловка 5х114.30."
+                },
+                {
+                    "title": "Диски Toyota Crown 1999",
+                    "description": "Контрактные диски Toyota Crown 1999. Параметры: 15х6J ET53 5х114.30. В наличии."
+                },
+                {
+                    "title": "Диски Toyota Crown 1999",
+                    "description": "Диски Toyota Crown 1999, оригинал. Размер 15х6J ET53, разболтовка 5х114.30. Контрактные."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [модель] [год] [размер] [разболтовка]",
+            "collection_description": "Контрактная Диски Toyota Crown 1999",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:06:05.617589"
+    }
+}

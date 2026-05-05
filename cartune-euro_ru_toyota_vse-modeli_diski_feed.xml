@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-06 00:06">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3209322531">Диски для Toyota</category>
+    </categories>
+    <offers>
+      <offer id="76913313369377016797598856171117456906" available="true" type="vendor.model">
+        <name>Диски Toyota Crown 1999 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <price>9999</price>
+        <oldprice>10998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Toyota</vendor>
+        <model>Crown 1999</model>
+        <description>Оригинальные контрактные диски Toyota Crown 1999. Размер 15х6J ET53, разболтовка 5х114.30. В наличии на складе в Москве</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Toyota</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="199763201961156930669523380873122341718" available="true" type="vendor.model">
+        <name>Диски Toyota Crown 1999 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <price>9999</price>
+        <oldprice>10998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Toyota</vendor>
+        <model>Crown 1999</model>
+        <description>Контрактные диски Toyota Crown 1999 года. Параметры: 15х6J ET53 5х114.30. Оригинальное состояние</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Toyota</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="106854002556390351981702339613945218813" available="true" type="vendor.model">
+        <name>Диски Toyota Crown 1999 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <price>9999</price>
+        <oldprice>10998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Toyota</vendor>
+        <model>Crown 1999</model>
+        <description>Диски 131821 для Toyota Crown 1999. Размер 15х6J ET53, 5 отверстий. Оригинал, контрактный</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Toyota</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="258800613990127910970440858924068060311" available="true" type="vendor.model">
+        <name>Диски Toyota Crown 1999 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <price>9999</price>
+        <oldprice>10998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Toyota</vendor>
+        <model>Crown 1999</model>
+        <description>Оригинальные диски Toyota Crown 1999. 15 дюймов, ширина 6J, вылет 53, сверловка 5х114.30</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Toyota</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="59650443725319900147106286176377482899" available="true" type="vendor.model">
+        <name>Диски Toyota Crown 1999 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <price>9999</price>
+        <oldprice>10998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Toyota</vendor>
+        <model>Crown 1999</model>
+        <description>Контрактные диски Toyota Crown 1999. Параметры: 15х6J ET53 5х114.30. В наличии</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Toyota</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="299483819203124605891649623382174967101" available="true" type="vendor.model">
+        <name>Диски Toyota Crown 1999 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <price>9999</price>
+        <oldprice>10998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_851.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_853.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_854.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Toyota</vendor>
+        <model>Crown 1999</model>
+        <description>Диски Toyota Crown 1999, оригинал. Размер 15х6J ET53, разболтовка 5х114.30. Контрактные</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Toyota</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_76913313369377016797598856171117456906">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <name>Диски Toyota Crown 1999 c доставкой</name>
+        <description>Контрактная Диски Toyota Crown 1999</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+      </collection>
+      <collection id="col_199763201961156930669523380873122341718">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <name>Диски Toyota Crown 1999 с гарантией</name>
+        <description>Контрактная Диски Toyota Crown 1999</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+      </collection>
+      <collection id="col_106854002556390351981702339613945218813">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <name>Диски Toyota Crown 1999 заказать</name>
+        <description>Контрактная Диски Toyota Crown 1999</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+      </collection>
+      <collection id="col_258800613990127910970440858924068060311">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <name>Диски Toyota Crown 1999 купить</name>
+        <description>Контрактная Диски Toyota Crown 1999</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+      </collection>
+      <collection id="col_59650443725319900147106286176377482899">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <name>Диски Toyota Crown 1999 по низкой цене</name>
+        <description>Контрактная Диски Toyota Crown 1999</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+      </collection>
+      <collection id="col_299483819203124605891649623382174967101">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfded/</url>
+        <name>Диски Toyota Crown 1999 узнать стоимость</name>
+        <description>Контрактная Диски Toyota Crown 1999</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_850.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
